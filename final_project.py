@@ -1,5 +1,5 @@
 # %% [markdown]
-# # CPSC 458 Final Project
+# # Investment Portfolio Recommendation Given Client Preferences
 # 
 # **Theme:** Portfolio recommendation given client preferences
 # 
